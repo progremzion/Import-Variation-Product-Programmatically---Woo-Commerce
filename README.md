@@ -1,2 +1,2 @@
 # Import-Variation-Product-Programmatically---Woo-Commerce
-Script to import product variation product from XLS along with images.
+Script to import variation product from XLS along with images.
